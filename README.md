@@ -1,10 +1,10 @@
 # Flag App
 
-A Flag App built with Next.js.
+A Flag webapp built in Next.JS
 
 ## Demo
 
-[Link](https://guileless-sunburst-f182b3.netlify.app/)
+[Link](https://worldranks-rho.vercel.app/)
 
 ## Getting Started
 
